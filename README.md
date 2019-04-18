@@ -1,2 +1,4 @@
 # Chess
- Object-Oriented Programming Chess
+ Object-Oriented Chess
+
+ ![Screenshot](./img/print.jpg)
